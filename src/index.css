@@ -34,10 +34,24 @@ main {
 .main-img {
   display: block;
   margin: 0 auto;
-  margin-top: 10%;
+  margin-top: 50%;
+  width: 30%;
 }
 
 header h1 {
   text-align: center;
 }
 
+.link{
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.link:hover {
+  color: yellow;
+}
+
+.search{
+  text-align: center;
+}
